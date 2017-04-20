@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F6B52084-C57A-828B-9412-49BBBFFC3196}") = "Samuri-Fighting-Game-master", "Assembly-CSharp.csproj", "{63AD4E27-996B-1093-19EB-EBDE3F12EDB5}"
+EndProject
+Project("{F6B52084-C57A-828B-9412-49BBBFFC3196}") = "Samuri-Fighting-Game-master", "Assembly-UnityScript.unityproj", "{C14F8A42-DB0E-9A50-5A46-A399BB5DEAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63AD4E27-996B-1093-19EB-EBDE3F12EDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AD4E27-996B-1093-19EB-EBDE3F12EDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AD4E27-996B-1093-19EB-EBDE3F12EDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AD4E27-996B-1093-19EB-EBDE3F12EDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14F8A42-DB0E-9A50-5A46-A399BB5DEAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14F8A42-DB0E-9A50-5A46-A399BB5DEAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14F8A42-DB0E-9A50-5A46-A399BB5DEAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14F8A42-DB0E-9A50-5A46-A399BB5DEAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
